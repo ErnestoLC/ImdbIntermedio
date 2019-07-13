@@ -1,0 +1,38 @@
+PLANEACION:
+
+1.  Escojo una pagina: Amazon
+
+2.  Elijo uno o dos casos de prueba: Verificar que la pagina del producto muestra la misma informacion que la pagina de resultados
+
+3.  Los ejecuto a mano- 
+
+4.  Los escribo con pasos, verificaciones y datos
+
+5.  Identifico las paginas, y los elementos con los que interactuo dentro de cada pagina
+6.  Identificar los localizadores de cada uno de los elementos
+
+
+
+DISENO:
+
+1.  Crear el proyecto
+
+2.  Ponerle las librerias
+
+3.  Crear las clases
+
+4.  Poner los esqueletos
+
+
+
+IMPLEMENTACION:
+
+1.  Codificar uno a uno los metodos 
+
+2.  Correrlos y depurarlos.
+
+3.  Repetir pasos 1 y 2.
+
+
+
+FELICIDAD!
